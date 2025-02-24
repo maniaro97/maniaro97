@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I currently studying in Masters in Data Science, seeking a challenging role in a reputed organization to utilize my skills and knowledge in the area of Data Science and Python programming, R Programming Language, Power BI Dashboards and Query, MySQL, MS Excel Dashboards with Formulas, Data Analyst, DBMS, ETL. Developed an understanding of data mining techniques, Applied machine learning algorithms to datasets, Conducted research on big data issues, Analyzed data to find trends and patterns and I am still studying in Data Science.
+Ability to analyze information, develop solutions, and make informed and effective decisions in complex environments. Passionate Data Science expert with a Master's, skilled in Python, R, Power BI, and MySQL. Proficient in data mining, machine learning, and extracting actionable insights. Dedicated to leveraging expertise for impactful contributions in the Data/Business Analyst sector, aiming to excel through ongoing education and innovation. I can use my skills to make a positive impact
 
 
 
